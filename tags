@@ -1,0 +1,60 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+E	cec14_test_func.cpp	15;"	d	file:
+EPS	cec14_test_func.cpp	14;"	d	file:
+INF	cec14_test_func.cpp	13;"	d	file:
+M	main.cpp	/^double *OShift,*M,*y,*z,*x_bound;$/;"	v
+OShift	main.cpp	/^double *OShift,*M,*y,*z,*x_bound;$/;"	v
+PI	cec14_test_func.cpp	16;"	d	file:
+SS	main.cpp	/^int ini_flag=0,n_flag,func_flag,*SS;$/;"	v
+ackley_func	cec14_test_func.cpp	/^void ackley_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Ackley's  *\/$/;"	f
+asyfunc	cec14_test_func.cpp	/^void asyfunc (double *x, double *xasy, int nx, double beta)$/;"	f
+bent_cigar_func	cec14_test_func.cpp	/^void bent_cigar_func (double *x, double *f, int nx, double *Os,double *Mr, int s_flag, int r_flag) \/* Bent_Cigar *\/$/;"	f
+bi_rastrigin_func	cec14_test_func.cpp	/^void bi_rastrigin_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Lunacek Bi_rastrigin Function *\/$/;"	f
+cec14_test_func	cec14_test_func.cpp	/^void cec14_test_func(double *x, double *f, int nx, int mx,int func_num)$/;"	f
+cf01	cec14_test_func.cpp	/^void cf01 (double *x, double *f, int nx, double *Os,double *Mr,int r_flag) \/* Composition Function 1 *\/$/;"	f
+cf02	cec14_test_func.cpp	/^void cf02 (double *x, double *f, int nx, double *Os,double *Mr,int r_flag) \/* Composition Function 2 *\/$/;"	f
+cf03	cec14_test_func.cpp	/^void cf03 (double *x, double *f, int nx, double *Os,double *Mr,int r_flag) \/* Composition Function 3 *\/$/;"	f
+cf04	cec14_test_func.cpp	/^void cf04 (double *x, double *f, int nx, double *Os,double *Mr,int r_flag) \/* Composition Function 4 *\/$/;"	f
+cf05	cec14_test_func.cpp	/^void cf05 (double *x, double *f, int nx, double *Os,double *Mr,int r_flag) \/* Composition Function 4 *\/$/;"	f
+cf06	cec14_test_func.cpp	/^void cf06 (double *x, double *f, int nx, double *Os,double *Mr,int r_flag) \/* Composition Function 6 *\/$/;"	f
+cf07	cec14_test_func.cpp	/^void cf07 (double *x, double *f, int nx, double *Os,double *Mr,int *SS,int r_flag) \/* Composition Function 7 *\/$/;"	f
+cf08	cec14_test_func.cpp	/^void cf08 (double *x, double *f, int nx, double *Os,double *Mr,int *SS,int r_flag) \/* Composition Function 8 *\/$/;"	f
+cf_cal	cec14_test_func.cpp	/^void cf_cal(double *x, double *f, int nx, double *Os,double * delta,double * bias,double * fit, int cf_num)$/;"	f
+dif_powers_func	cec14_test_func.cpp	/^void dif_powers_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Different Powers *\/$/;"	f
+discus_func	cec14_test_func.cpp	/^void discus_func (double *x, double *f, int nx, double *Os,double *Mr, int s_flag, int r_flag) \/* Discus *\/$/;"	f
+ellips_func	cec14_test_func.cpp	/^void ellips_func (double *x, double *f, int nx, double *Os,double *Mr, int s_flag, int r_flag) \/* Ellipsoidal *\/$/;"	f
+escaffer6_func	cec14_test_func.cpp	/^void escaffer6_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Expanded Scaffer??s F6  *\/$/;"	f
+func_flag	main.cpp	/^int ini_flag=0,n_flag,func_flag,*SS;$/;"	v
+grie_rosen_func	cec14_test_func.cpp	/^void grie_rosen_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Griewank-Rosenbrock  *\/$/;"	f
+griewank_func	cec14_test_func.cpp	/^void griewank_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Griewank's  *\/$/;"	f
+happycat_func	cec14_test_func.cpp	/^void happycat_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* HappyCat, provdided by Hans-Georg Beyer (HGB) *\/$/;"	f
+hf01	cec14_test_func.cpp	/^void hf01 (double *x, double *f, int nx, double *Os,double *Mr,int *S,int s_flag,int r_flag) \/* Hybrid Function 1 *\/$/;"	f
+hf02	cec14_test_func.cpp	/^void hf02 (double *x, double *f, int nx, double *Os,double *Mr,int *S,int s_flag,int r_flag) \/* Hybrid Function 2 *\/$/;"	f
+hf03	cec14_test_func.cpp	/^void hf03 (double *x, double *f, int nx, double *Os,double *Mr,int *S,int s_flag,int r_flag) \/* Hybrid Function 3 *\/$/;"	f
+hf04	cec14_test_func.cpp	/^void hf04 (double *x, double *f, int nx, double *Os,double *Mr,int *S,int s_flag,int r_flag) \/* Hybrid Function 4 *\/$/;"	f
+hf05	cec14_test_func.cpp	/^void hf05 (double *x, double *f, int nx, double *Os,double *Mr,int *S,int s_flag,int r_flag) \/* Hybrid Function 5 *\/$/;"	f
+hf06	cec14_test_func.cpp	/^void hf06 (double *x, double *f, int nx, double *Os,double *Mr,int *S,int s_flag,int r_flag) \/* Hybrid Function 6 *\/$/;"	f
+hgbat_func	cec14_test_func.cpp	/^void hgbat_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* HGBat, provdided by Hans-Georg Beyer (HGB)*\/$/;"	f
+ini_flag	main.cpp	/^int ini_flag=0,n_flag,func_flag,*SS;$/;"	v
+katsuura_func	cec14_test_func.cpp	/^void katsuura_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Katsuura  *\/$/;"	f
+main	main.cpp	/^int main()$/;"	f
+n_flag	main.cpp	/^int ini_flag=0,n_flag,func_flag,*SS;$/;"	v
+oszfunc	cec14_test_func.cpp	/^void oszfunc (double *x, double *xosz, int nx)$/;"	f
+rastrigin_func	cec14_test_func.cpp	/^void rastrigin_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Rastrigin's  *\/$/;"	f
+rosenbrock_func	cec14_test_func.cpp	/^void rosenbrock_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Rosenbrock's *\/$/;"	f
+rotatefunc	cec14_test_func.cpp	/^void rotatefunc (double *x, double *xrot, int nx,double *Mr)$/;"	f
+schaffer_F7_func	cec14_test_func.cpp	/^void schaffer_F7_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Schwefel's 1.2  *\/$/;"	f
+schwefel_func	cec14_test_func.cpp	/^void schwefel_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Schwefel's  *\/$/;"	f
+shiftfunc	cec14_test_func.cpp	/^void shiftfunc (double *x, double *xshift, int nx,double *Os)$/;"	f
+sphere_func	cec14_test_func.cpp	/^void sphere_func (double *x, double *f, int nx, double *Os, double *Mr, int s_flag, int r_flag) \/* Sphere *\/$/;"	f
+sr_func	cec14_test_func.cpp	/^void sr_func (double *x, double *sr_x, int nx, double *Os,double *Mr, double sh_rate, int s_flag,int r_flag) \/* shift and rotate *\/$/;"	f
+step_rastrigin_func	cec14_test_func.cpp	/^void step_rastrigin_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Noncontinuous Rastrigin's  *\/$/;"	f
+weierstrass_func	cec14_test_func.cpp	/^void weierstrass_func (double *x, double *f, int nx, double *Os,double *Mr,int s_flag, int r_flag) \/* Weierstrass's  *\/$/;"	f
+x_bound	main.cpp	/^double *OShift,*M,*y,*z,*x_bound;$/;"	v
+y	main.cpp	/^double *OShift,*M,*y,*z,*x_bound;$/;"	v
+z	main.cpp	/^double *OShift,*M,*y,*z,*x_bound;$/;"	v
